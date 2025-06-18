@@ -1,8 +1,4 @@
 mountpoints:
   # /: https://drive.google.com/drive/u/1/folders/1Zf05otkzjkhrs48f_4uajFTGrRqzUn3K
-   root: https://mdigital.sharepoint.com/sites/HCWebChannel-EDS/Shared%20Documents/website
-   paths:
-   /: index.docx
-  /footer: footer.docx
-  /nav: nav.docx
+   /: https://mdigital.sharepoint.com/sites/HCWebChannel-EDS/Shared%20Documents/website
    
